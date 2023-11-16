@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+Skratch link: https://www.figma.com/file/Rgm6GaCgXTCT8EQ0xSMn1i/Gram-App-Sketch?type=whiteboard&node-id=0%3A1&t=mK8ZfLJh7hDtGbpe-1
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
